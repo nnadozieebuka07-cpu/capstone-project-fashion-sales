@@ -1,1 +1,0 @@
-# capstone-project-fashion-sales
